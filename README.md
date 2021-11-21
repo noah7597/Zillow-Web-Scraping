@@ -3,14 +3,14 @@
 ## General info
 This is a Python script I made that uses beautiful soup and selenium to scrape data from Zillow.com.
 
-##Installations
-###Beautiful Soup
+## Installations
+### Beautiful Soup
 To install beautiful soup onto your computer, open terminal and type "pip install beautifulsoup4"
 
-###Selenium
+### Selenium
 To install selenium onto your computer, open terminal and type "pip install selenium"
 
-###Chrome Driver
+### Chrome Driver
 1. Begin by checking your version of chrome
 2. Go to https://chromedriver.chromium.org/downloads
 3. Download the Chrome Driver corresponding to your Chrom version and OS
